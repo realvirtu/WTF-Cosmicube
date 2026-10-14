@@ -1,0 +1,12 @@
+{
+	"type": "playerSkin",
+	"price": 200,
+
+	"title": "WTF Greenfriend",
+	"description": "He's so green",
+
+	"node": {
+		"direction": "south",
+		"parent": "wtf-bf"
+	}
+}
