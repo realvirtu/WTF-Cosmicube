@@ -1,0 +1,12 @@
+{
+	"type": "playerSkin",
+	"price": 100,
+
+	"title": "WTF BF (Updog)",
+	"description": "WHAT THE FUCK",
+
+	"node": {
+		"direction": "west",
+		"parent": "wtf-greenfriend"
+	}
+}
