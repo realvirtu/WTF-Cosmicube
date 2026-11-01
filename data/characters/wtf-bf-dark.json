@@ -1,0 +1,162 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down-miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "left-miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right-miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up-miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dark/wtf-bf",
+	"position": [
+		95,
+		405
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": "gameover-wtf-bf",
+	"flags": {
+		"isPixel": true
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "wtf-bf",
+	"afterimages": true,
+	"gameover_character": "wtf-bf-dead",
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -16728065,
+	"camera_position": [
+		120,
+		-30
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 2,
+	"_editor_isPlayer": true
+}

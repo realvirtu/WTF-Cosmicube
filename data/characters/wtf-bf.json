@@ -142,7 +142,10 @@
 	"gameover_intial_sound": "gameover-wtf-bf",
 	"flags": {
 		"isPixel": true,
-		"noteSkin": "wtf"
+		"noteSkin": "wtf",
+		"variants": {
+			"dark": "wtf-bf-dark"
+		}
 	},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
