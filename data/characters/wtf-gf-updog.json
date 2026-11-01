@@ -1,0 +1,84 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle-left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-right",
+			"flipX": false,
+			"indices": [],
+			"name": "idle-right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"flipX": false,
+			"indices": [],
+			"name": "turn-left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "turn-right",
+			"flipX": false,
+			"indices": [],
+			"name": "turn-right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/wtf-gf-updog",
+	"position": [
+		305,
+		370
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"flags": {
+		"isPixel": true
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "gf",
+	"afterimages": false,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -5963699,
+	"camera_position": [
+		-230,
+		-60
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

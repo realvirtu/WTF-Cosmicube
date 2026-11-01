@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="idle-left0000" x="1" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-left0001" x="1" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-left0002" x="196" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-left0003" x="196" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-left0004" x="391" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-left0005" x="391" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0000" x="1" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0001" x="1" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0002" x="196" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0003" x="196" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0004" x="391" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="idle-right0005" x="391" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-left0000" x="1" y="435" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-left0001" x="1" y="435" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-left0002" x="391" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-left0003" x="391" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-left0004" x="391" y="1" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-right0000" x="196" y="435" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-right0001" x="196" y="435" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-right0002" x="391" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-right0003" x="391" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+	<SubTexture name="turn-right0004" x="391" y="218" width="194" height="216" frameX="0" frameY="0" frameWidth="194" frameHeight="216" />
+</TextureAtlas>
