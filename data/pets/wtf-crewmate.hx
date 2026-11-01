@@ -40,7 +40,7 @@ function onBeatHit()
 
 function rainbow()
 {
-    FlxTween.color(null, 0.5, palette.r, pickRandomColor(), {
+    FlxTween.color(null, 2, palette.r, pickRandomColor(), {
         onUpdate: tween -> palette.r = tween.color,
         onComplete: _ -> rainbow()
     });
