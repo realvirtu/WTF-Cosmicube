@@ -1,0 +1,12 @@
+{
+	"type": "pet",
+	"price": 100,
+
+	"title": "WTF Stickmin",
+	"description": "WHAT THE FUCK IS THE GREATEST PLAN?!?!",
+
+	"node": {
+		"direction": "south",
+		"parent": "wtf-crewmate"
+	}
+}

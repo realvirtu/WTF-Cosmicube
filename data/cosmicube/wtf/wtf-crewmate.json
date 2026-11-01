@@ -1,0 +1,12 @@
+{
+	"type": "pet",
+	"price": 100,
+
+	"title": "WTF Crewmate",
+	"description": "WHAT THE FUCK WAS THAT?? WAS THAT THE IMPOSTER FROM AMONG US?!",
+
+	"node": {
+		"direction": "south",
+		"parent": "root"
+	}
+}
