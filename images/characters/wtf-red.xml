@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TextureAtlas imagePath="spritesheet.png">
+<TextureAtlas imagePath="wtf-red.png">
 	<SubTexture name="idle0000" x="1" y="1" width="349" height="189" frameX="0" frameY="0" frameWidth="349" frameHeight="189" />
 	<SubTexture name="idle0001" x="1" y="1" width="349" height="189" frameX="0" frameY="0" frameWidth="349" frameHeight="189" />
 	<SubTexture name="idle0002" x="351" y="1" width="349" height="189" frameX="0" frameY="0" frameWidth="349" frameHeight="189" />
