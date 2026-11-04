@@ -1,0 +1,12 @@
+{
+	"type": "playerSkin",
+	"price": 100,
+
+	"title": "WTF Red",
+	"description": "WHAT THE FUCK",
+
+	"node": {
+		"direction": "north",
+		"parent": "root"
+	}
+}
