@@ -1,0 +1,12 @@
+{
+	"type": "playerSkin",
+	"price": 200,
+
+	"title": "WTF BF 2",
+	"description": "Let's beat this guy!",
+
+	"node": {
+		"direction": "west",
+		"parent": "wtf-bf-updog"
+	}
+}
