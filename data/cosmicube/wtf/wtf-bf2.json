@@ -6,7 +6,7 @@
 	"description": "Let's beat this guy!",
 
 	"node": {
-		"direction": "west",
-		"parent": "wtf-bf-updog"
+		"direction": "south",
+		"parent": "wtf-greenfriend"
 	}
 }
