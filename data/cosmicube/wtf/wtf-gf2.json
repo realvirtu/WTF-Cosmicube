@@ -1,0 +1,12 @@
+{
+	"type": "speakerSkin",
+	"price": 200,
+
+	"title": "WTF GF 2",
+	"description": "WHAT THE FUCK",
+
+	"node": {
+		"direction": "east",
+		"parent": "wtf-gf-updog"
+	}
+}
