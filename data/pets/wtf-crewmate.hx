@@ -14,7 +14,7 @@ var palette:RGBPalette;
 
 var changeOnBeat:Bool = false;
 
-function onCreatePost()
+function onLoad()
 {
     palette = new RGBPalette();
     
