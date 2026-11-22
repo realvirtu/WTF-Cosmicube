@@ -1,0 +1,12 @@
+{
+	"type": "pet",
+	"price": 5,
+
+	"title": "WTF Nug",
+	"description": "mm fuck...",
+
+	"node": {
+		"direction": "east",
+		"parent": "wtf-stickmin"
+	}
+}

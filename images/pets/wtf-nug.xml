@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="wtf-nug.png">
+	<SubTexture name="idle0000" x="0" y="0" width="66" height="64" frameX="0" frameY="0" frameWidth="66" frameHeight="64" />
+</TextureAtlas>
