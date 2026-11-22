@@ -1,0 +1,12 @@
+{
+	"type": "playerSkin",
+	"price": 150,
+
+	"title": "WTF BF (B-Sides)",
+	"description": "WHAT THE FUCK (B-Sides Remix)",
+
+	"node": {
+		"direction": "west",
+		"parent": "wtf-bf-pixel"
+	}
+}
